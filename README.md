@@ -13,6 +13,7 @@
 ## Extensões do Google Chrome
 
  - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+ - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 
 Após a instalação dos itens acima, execute no terminal (se você usa windows, preferivelmente através do git-bash):
 
