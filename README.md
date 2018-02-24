@@ -1,6 +1,9 @@
 # Full Stack dev - Guia de Sobrevivência (2018)
 
+## Link para apresentação
+[Slides](https://talks.godoc.org/github.com/schettino/minicurso-fullstack/slides/main.slide#1)
 
+---
 
 ## Programas necessários
 
@@ -20,5 +23,3 @@ Após a instalação dos itens acima, execute no terminal (se você usa windows,
 ```
 yarn global add npx
 ```
-
-Clique em *watch* para assinar a atualizações deste repositório e se manter informado sobre eventuais mudanças. Nos vemos lá!
