@@ -1,0 +1,175 @@
+Full Stack Dev
+Guia de Sobrevivência
+
+Matheus Schettino Santos
+schettino2@gmail.com
+
+
+* Introdução
+.video ../assets/images/Kantega_The_Mysterious_Life_of_Developers.mp4 video/mp4 500 _
+
+* 
+*Sobre* *o* *que* *iremos* *falar*
+- Estratégias que antecedem à execução do projeto
+- Estratégias de desenvolvimento
+- Estratégias de publicação e monitoramento
+
+*O* *não* *é* *este* *curso*
+- Um curso
+- Discussão de alto nível sobre Engenharia de Software
+
+* O que é Full Stack
+* 
+.image ../assets/images/1.jpeg _ 1000
+* 
+.image ../assets/images/2.png _ 700
+
+
+* Por que Full Stack
+- Obter insights sobre arquitetura de projeto
+- Entender os desafios da equipe
+- Side projects
+- Um passo para Product Engineer
+
+* Straightforward
+
+* Setup
+- Linux
+- Docker
+- VSCode
+- Postman
+
+* Docker
+.image ../assets/images/docker1.jpg _ 600
+* 
+.image ../assets/images/docker2.jpg _ 600
+
+
+* Server Side
+* Linguagens, comunidades e frameworks
+- NodeJS
+- Golang
+- Koa e Express
+- Hapi
+
+* Tipagem
+- Não garante corretude
+- Sistemas são stringamente tipados
+- Trade-offs
+* Por que não Java
+* Porque
+ AnimalClassAboutSomeDogWhosNameIDontRemeber a = new
+ AnimalClassAboutSomeDogWhosNameIDontRemeber()
+
+* NodeJS
+* Motivações
+- Comunidade
+- Simplicidade
+- Velocidade de desenvolvimento
+- Abundância de Third Party Libraries
+
+* Golang
+* Motivações
+- Único binário e tempo de compilação
+- Inferência
+- Standard libraries
+- Design de solução
+- Qualidade de código
+
+* Utilize aquilo que você já saiba
+
+* Mitigando ataques mais frequêntes
+* Alguns tipos de ataques
+- CSFR
+- XSS
+- SQL Injection
+* CSFR
+.image ../assets/images/csrf-token.jpg 500 500
+* XSS
+.image ../assets/images/xss.png 500 _
+* Não confie no usuário
+
+* Checklist para uma API eficiente
+- Autorização
+- Validação
+- Sanitização
+- Publicação
+- Documentação
+
+
+* Autenticação
+- JSON Web Tokens 
+- OAuth2
+- Passwordless
+* JWT
+* 
+.image ../assets/images/jwt1.png _ 1000
+* 
+.image ../assets/images/jwt2.png _ 900
+* OAuth Grants
+- Authorization Code Grant
+- Implicit Flow
+* Passwordless
+* 
+.image ../assets/images/passwordless.png 600 500
+
+* Banco de Dados
+- ORM's
+- SQL ou NoSQL
+- DynamoDB
+- RethinkDB
+
+* RethinkDB
+
+* Outsourcing e Third Party
+- *Autenticação*: Auth0, AWS Cognito, Facebook Account Kit e Firebase
+- *Banco* *de* *Dados*: Compose
+- *DevOps*: Heroku, AWS Lambda
+- *TLS* e *CDN*: Cloudflare
+
+
+* Front End
+* Comunidades e frameworks
+- JQuery
+- React
+- Angular
+- VueJS
+
+* Progressive Web Apps
+
+* React
+* Motivações
+- Virtual DOM
+- Comunidade
+- Extensões
+- Facebook
+- Battle Tested
+- É apenas uma bilioteca
+- Flow Typed
+- Representa a camada do *view* apenas
+
+* Vritual DOM
+.image ../assets/images/react-dom
+
+* Tecnologias que melhor pareiam com React
+* Tecnologias que melhor pareiam com React
+- Redux
+- Redux-Saga
+- Loadable
+- React Router
+
+* 
+.image ../assets/images/r1.png _ 700
+
+* 
+.image ../assets/images/r2.png _ 700
+
+* React Native
+
+* Gerenciamento de projetos simplificado
+* Deploy
+* Monitoramento
+
+
+
+
