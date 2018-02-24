@@ -148,8 +148,8 @@ schettino2@gmail.com
 - Flow Typed
 - Representa a camada do *view* apenas
 
-* Vritual DOM
-.image ../assets/images/react-dom
+* Virtual DOM
+.image ../assets/images/react-dom.png 500 _
 
 * Tecnologias que melhor pareiam com React
 * Tecnologias que melhor pareiam com React
